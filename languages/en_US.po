@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frontier v1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-04 12:29:49+0000\n"
+"Last-Translator: ronangelo.com\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#: index.php:47
+#@ frontier
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:9
+#@ frontier
+msgid "Sorry. The Page or File you were looking for was not found."
+msgstr ""
+
+#: author.php:11
+#@ frontier
+msgid "Posts:"
+msgstr ""
+
+#: author.php:22
+#@ frontier
+msgid "Latest Posts by the Author"
+msgstr ""
+
+#: author.php:36
+#@ frontier
+msgid "Untitled"
+msgstr ""
+
+#: comments.php:7
+#: loop-blog.php:50
+#: loop-single.php:63
+#@ frontier
+msgid "Comments"
+msgstr ""
+
+#: comments.php:7
+#: loop-blog.php:50
+#: loop-single.php:63
+#@ frontier
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:7
+#: loop-blog.php:50
+#: loop-single.php:63
+#@ frontier
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:9
+#@ frontier
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:38
+#@ frontier
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:59
+#: options.php:33
+#@ frontier
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:61
+#@ frontier
+msgid "Primary"
+msgstr ""
+
+#: functions.php:133
+#, php-format
+#@ frontier
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:150
+#: includes/options-framework/includes/class-options-framework-admin.php:82
+#: includes/options-framework/includes/class-options-framework-admin.php:83
+#@ frontier
+msgid "Frontier Options"
+msgstr ""
+
+#: functions.php:156
+#@ frontier
+msgid "Editor"
+msgstr ""
+
+#: functions.php:162
+#@ frontier
+msgid "Plugins"
+msgstr ""
+
+#: functions.php:174
+#@ frontier
+msgid "Sidebar &ndash; Left"
+msgstr ""
+
+#: functions.php:176
+#@ frontier
+msgid "For layouts and templates with a left sidebar."
+msgstr ""
+
+#: functions.php:183
+#@ frontier
+msgid "Sidebar &ndash; Right"
+msgstr ""
+
+#: functions.php:185
+#@ frontier
+msgid "For layouts and templates with a right sidebar."
+msgstr ""
+
+#: functions.php:201
+#: options.php:253
+#@ frontier
+msgid "Body"
+msgstr ""
+
+#: functions.php:203
+#@ frontier
+msgid "Widgets outside of the container. If used, you'll have to position the widgets with css."
+msgstr ""
+
+#: functions.php:212
+#: options.php:54
+#: options.php:254
+#@ frontier
+msgid "Header"
+msgstr ""
+
+#: functions.php:214
+#@ frontier
+msgid "Widgets to appear on the header. Ideal for horizontal ads or banners."
+msgstr ""
+
+#: functions.php:223
+#: options.php:255
+#: options.php:389
+#@ frontier
+msgid "Below Menu"
+msgstr ""
+
+#: functions.php:225
+#@ frontier
+msgid "Full-width widgets that appear under the main menu. Ideal for horizontal ads or banners."
+msgstr ""
+
+#: functions.php:234
+#: options.php:256
+#: options.php:390
+#@ frontier
+msgid "Before Content"
+msgstr ""
+
+#: functions.php:244
+#: options.php:257
+#@ frontier
+msgid "After Content"
+msgstr ""
+
+#: functions.php:254
+#: options.php:258
+#@ frontier
+msgid "Footer"
+msgstr ""
+
+#: functions.php:256
+#@ frontier
+msgid "You can set the number of widgets per row on the options page. 1, 2, 3, 4, 5 or 6 columns."
+msgstr ""
+
+#: functions.php:265
+#@ frontier
+msgid "Post &ndash; Header"
+msgstr ""
+
+#: functions.php:275
+#@ frontier
+msgid "Post &ndash; Before Content"
+msgstr ""
+
+#: functions.php:285
+#@ frontier
+msgid "Post &ndash; After Content"
+msgstr ""
+
+#: functions.php:295
+#@ frontier
+msgid "Post &ndash; Footer"
+msgstr ""
+
+#: functions.php:629
+#, php-format
+#@ frontier
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:632
+#: functions.php:646
+#: loop-blog.php:54
+#: loop-single.php:67
+#@ frontier
+msgid "Edit"
+msgstr ""
+
+#: functions.php:636
+#@ frontier
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:646
+#@ frontier
+msgid "Pingback:"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-framework-admin.php:174
+#: includes/options-framework/includes/class-options-interface.php:401
+#@ frontier
+msgid "Save Options"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-framework-admin.php:175
+#@ frontier
+msgid "Restore Defaults"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-framework-admin.php:175
+#@ frontier
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-framework-admin.php:206
+#@ frontier
+msgid "Default options restored."
+msgstr ""
+
+#: includes/options-framework/includes/class-options-framework-admin.php:260
+#@ frontier
+msgid "Options saved."
+msgstr ""
+
+#: includes/options-framework/includes/class-options-media-uploader.php:63
+#@ frontier
+msgid "No file chosen"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-media-uploader.php:66
+#: includes/options-framework/includes/class-options-media-uploader.php:119
+#@ frontier
+msgid "Upload"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-media-uploader.php:68
+#: includes/options-framework/includes/class-options-media-uploader.php:120
+#@ frontier
+msgid "Remove"
+msgstr ""
+
+#: includes/options-framework/includes/class-options-media-uploader.php:71
+#@ frontier
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/options-framework/includes/class-options-media-uploader.php:95
+#@ frontier
+msgid "View File"
+msgstr ""
+
+#: index.php:15
+#, php-format
+#@ frontier
+msgid "Search Results for &ndash; &quot;<span>%s</span>&quot;"
+msgstr ""
+
+#: index.php:17
+#, php-format
+#@ frontier
+msgid "Date &ndash; <span>%s</span>"
+msgstr ""
+
+#: index.php:19
+#, php-format
+#@ frontier
+msgid "Month &ndash; <span>%s</span>"
+msgstr ""
+
+#: index.php:21
+#, php-format
+#@ frontier
+msgid "Year &ndash; <span>%s</span>"
+msgstr ""
+
+#: index.php:48
+#@ frontier
+msgid "Try a new keyword."
+msgstr ""
+
+#: index.php:67
+#@ frontier
+msgid "&#8592; Older Posts"
+msgstr ""
+
+#: index.php:68
+#@ frontier
+msgid "Newer Posts &#8594;"
+msgstr ""
+
+#: index.php:71
+#@ frontier
+msgid "Next Page &#8594;"
+msgstr ""
+
+#: index.php:72
+#@ frontier
+msgid "&#8592; Previous Page"
+msgstr ""
+
+#: loop-blog.php:90
+#: loop-single.php:90
+#@ frontier
+msgid "<span>Pages</span>"
+msgstr ""
+
+#: loop-blog.php:95
+#: loop-single.php:95
+#@ frontier
+msgid "Next page"
+msgstr ""
+
+#: loop-blog.php:96
+#: loop-single.php:96
+#@ frontier
+msgid "Previous page"
+msgstr ""
+
+#: loop-blog.php:111
+#@ frontier
+msgid "Read Page"
+msgstr ""
+
+#: loop-blog.php:111
+#@ frontier
+msgid "Read Post"
+msgstr ""
+
+#: loop-blog.php:120
+#: loop-single.php:109
+#, php-format
+#@ frontier
+msgid "Updated: %1$s &mdash; %2$s"
+msgstr ""
+
+#: loop-single.php:84
+#@ frontier
+msgid "&#8592; Previous Image"
+msgstr ""
+
+#: loop-single.php:85
+#@ frontier
+msgid "Next Image &#8594;"
+msgstr ""
+
+#: loop-single.php:128
+#@ frontier
+msgid "The Author"
+msgstr ""
+
+#: loop-single.php:144
+#@ frontier
+msgid "&#8592; Previous Post"
+msgstr ""
+
+#: loop-single.php:147
+#@ frontier
+msgid "Next Post &#8594;"
+msgstr ""
+
+#: options.php:24
+#@ frontier
+msgid "Display"
+msgstr ""
+
+#: options.php:27
+#@ frontier
+msgid "Favicon"
+msgstr ""
+
+#: options.php:28
+#@ frontier
+msgid "Choose an icon or image to be used as a favicon. You can either upload a file or enter a url."
+msgstr ""
+
+#: options.php:34
+#@ frontier
+msgid "Show the Top Bar."
+msgstr ""
+
+#: options.php:40
+#@ frontier
+msgid "Note: the Top Menu only supports top level menu items. It will not show any sub-menus."
+msgstr ""
+
+#: options.php:48
+#@ frontier
+msgid "Site Title"
+msgstr ""
+
+#: options.php:49
+#@ frontier
+msgid "Site Description"
+msgstr ""
+
+#: options.php:50
+#@ frontier
+msgid "Top Menu"
+msgstr ""
+
+#: options.php:55
+#@ frontier
+msgid "Show the Header."
+msgstr ""
+
+#: options.php:61
+#@ frontier
+msgid "Set the minimum Header Height that is to be used when no Header Logo is present."
+msgstr ""
+
+#: options.php:68
+#@ frontier
+msgid "Header Logo"
+msgstr ""
+
+#: options.php:69
+#@ frontier
+msgid "This option is intended for adding or removing your website's logo. To change your header's background image, check here: <a href=\\\"?page=custom-header\\\">Background Image</a>"
+msgstr ""
+
+#: options.php:75
+#@ frontier
+msgid "Main Menu"
+msgstr ""
+
+#: options.php:76
+#@ frontier
+msgid "Show the Main Menu."
+msgstr ""
+
+#: options.php:82
+#@ frontier
+msgid "Footer Text"
+msgstr ""
+
+#: options.php:91
+#@ frontier
+msgid "Layout"
+msgstr ""
+
+#: options.php:94
+#@ frontier
+msgid "Main Layout"
+msgstr ""
+
+#: options.php:95
+#@ frontier
+msgid "Select default content and sidebar layout."
+msgstr ""
+
+#: options.php:109
+#@ frontier
+msgid "Container Width"
+msgstr ""
+
+#: options.php:110
+#@ frontier
+msgid "Use the slider to set the width of the container."
+msgstr ""
+
+#: options.php:116
+#@ frontier
+msgid "Two Column Widths"
+msgstr ""
+
+#: options.php:117
+#@ frontier
+msgid "Set the width percentage for the content area and a sidebar. These values apply wherever a two-column layout is being used."
+msgstr ""
+
+#: options.php:123
+#@ frontier
+msgid "Three Column Widths"
+msgstr ""
+
+#: options.php:124
+#@ frontier
+msgid "Set the width percentage for the content area and two sidebars. These values apply wherever a three-column layout is being used."
+msgstr ""
+
+#: options.php:132
+#@ frontier
+msgid "Blog View"
+msgstr ""
+
+#: options.php:135
+#@ frontier
+msgid "Article Display"
+msgstr ""
+
+#: options.php:136
+#@ frontier
+msgid "Select whether to show excerpts or full content."
+msgstr ""
+
+#: options.php:146
+#@ frontier
+msgid "Article Elements"
+msgstr ""
+
+#: options.php:147
+#@ frontier
+msgid "Select elements to display when posts are displayed on blog view. Note: Thumbnail uses the featured image that is set on each post."
+msgstr ""
+
+#: options.php:160
+#@ frontier
+msgid "Thumbnail (Only on Excerpts)"
+msgstr ""
+
+#: options.php:161
+#: options.php:201
+#: options.php:224
+#@ frontier
+msgid "Byline Author"
+msgstr ""
+
+#: options.php:162
+#: options.php:202
+#: options.php:225
+#@ frontier
+msgid "Byline Date Published"
+msgstr ""
+
+#: options.php:163
+#: options.php:203
+#@ frontier
+msgid "Byline Categories"
+msgstr ""
+
+#: options.php:164
+#: options.php:204
+#: options.php:226
+#@ frontier
+msgid "Byline Comment Info"
+msgstr ""
+
+#: options.php:165
+#@ frontier
+msgid "Read Post Button (Only on Excerpts)"
+msgstr ""
+
+#: options.php:166
+#@ frontier
+msgid "Date Updated"
+msgstr ""
+
+#: options.php:167
+#@ frontier
+msgid "Tags"
+msgstr ""
+
+#: options.php:171
+#@ frontier
+msgid "Thumbnail Size"
+msgstr ""
+
+#: options.php:172
+#@ frontier
+msgid "Note: If you choose the 200 &times; 120 size you may need to regenerate thumbnails to get the exact image size. Use \"Regenerate Thumbnail\" plugins."
+msgstr ""
+
+#: options.php:177
+#@ frontier
+msgid "150 &times; 150 &ndash; Default"
+msgstr ""
+
+#: options.php:178
+#@ frontier
+msgid "200 &times; 120 &ndash; Horizontal"
+msgstr ""
+
+#: options.php:184
+#@ frontier
+msgid "Single View"
+msgstr ""
+
+#: options.php:187
+#@ frontier
+msgid "Post Elements"
+msgstr ""
+
+#: options.php:205
+#: options.php:227
+#@ frontier
+msgid "Show Date Updated"
+msgstr ""
+
+#: options.php:206
+#@ frontier
+msgid "Show Tags"
+msgstr ""
+
+#: options.php:207
+#: options.php:228
+#@ frontier
+msgid "Show Author Box"
+msgstr ""
+
+#: options.php:208
+#@ frontier
+msgid "Show Post Navigation"
+msgstr ""
+
+#: options.php:209
+#: options.php:229
+#@ frontier
+msgid "Enable Comments"
+msgstr ""
+
+#: options.php:213
+#@ frontier
+msgid "Page Elements"
+msgstr ""
+
+#: options.php:235
+#@ frontier
+msgid "Widgets"
+msgstr ""
+
+#: options.php:238
+#@ frontier
+msgid "Widget Areas"
+msgstr ""
+
+#: options.php:259
+#@ frontier
+msgid "Post - Header"
+msgstr ""
+
+#: options.php:260
+#@ frontier
+msgid "Post - Before Content"
+msgstr ""
+
+#: options.php:261
+#@ frontier
+msgid "Post - After Content"
+msgstr ""
+
+#: options.php:262
+#@ frontier
+msgid "Post - Footer"
+msgstr ""
+
+#: options.php:266
+#@ frontier
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: options.php:267
+#@ frontier
+msgid "Choose how many footer widgets per row to display. Footer must be enabled on Widget Areas option."
+msgstr ""
+
+#: options.php:272
+#@ frontier
+msgid "1 Column"
+msgstr ""
+
+#: options.php:273
+#@ frontier
+msgid "2 Columns"
+msgstr ""
+
+#: options.php:274
+#@ frontier
+msgid "3 Columns"
+msgstr ""
+
+#: options.php:275
+#@ frontier
+msgid "4 Columns"
+msgstr ""
+
+#: options.php:276
+#@ frontier
+msgid "5 Columns"
+msgstr ""
+
+#: options.php:277
+#@ frontier
+msgid "6 Columns"
+msgstr ""
+
+#: options.php:283
+#@ frontier
+msgid "Colors"
+msgstr ""
+
+#: options.php:286
+#@ frontier
+msgid "Custom Colors"
+msgstr ""
+
+#: options.php:287
+#@ frontier
+msgid "Check box to enable the color options below. Other elements not included here can be changed through the Custom CSS option. Background color for the body area can be set here: <a href=\\\"?page=custom-background\\\">Body Background</a>"
+msgstr ""
+
+#: options.php:293
+#@ frontier
+msgid "Primary Color"
+msgstr ""
+
+#: options.php:294
+#@ frontier
+msgid "This is the main accent color. This sets the colors for widget title background, top borders, genericons, reply buttons and various elements."
+msgstr ""
+
+#: options.php:301
+#@ frontier
+msgid "<strong>Top Bar</strong>"
+msgstr ""
+
+#: options.php:307
+#@ frontier
+msgid "<strong>Header</strong>"
+msgstr ""
+
+#: options.php:313
+#@ frontier
+msgid "<strong>Main Menu</strong>"
+msgstr ""
+
+#: options.php:319
+#@ frontier
+msgid "<strong>Bottom Bar</strong>"
+msgstr ""
+
+#: options.php:326
+#@ frontier
+msgid "<strong>Link Color</strong>"
+msgstr ""
+
+#: options.php:332
+#@ frontier
+msgid "<strong>Link Hover Color</strong>"
+msgstr ""
+
+#: options.php:340
+#@ frontier
+msgid "Slider"
+msgstr ""
+
+#: options.php:343
+#@ frontier
+msgid "Enable Slider"
+msgstr ""
+
+#: options.php:344
+#@ frontier
+msgid "Activate slider. The slider is shown on the Front Page and Posts Page."
+msgstr ""
+
+#: options.php:351
+#@ frontier
+msgid "Slider Categories"
+msgstr ""
+
+#: options.php:352
+#@ frontier
+msgid "Select the categories to show on slider. You can select or deselect items by holding down the CTRL key while clicking. Creating a category specifically for use on the slider may be ideal."
+msgstr ""
+
+#: options.php:359
+#@ frontier
+msgid "Post Count"
+msgstr ""
+
+#: options.php:360
+#@ frontier
+msgid "How many posts should the slider show. Starts with the most recent post."
+msgstr ""
+
+#: options.php:367
+#@ frontier
+msgid "Slide Duration"
+msgstr ""
+
+#: options.php:368
+#@ frontier
+msgid "How many milliseconds before switching to the next slide."
+msgstr ""
+
+#: options.php:375
+#@ frontier
+msgid "Animation Speed"
+msgstr ""
+
+#: options.php:376
+#@ frontier
+msgid "How many milliseconds should the slide transition take."
+msgstr ""
+
+#: options.php:383
+#@ frontier
+msgid "Slider Position"
+msgstr ""
+
+#: options.php:384
+#@ frontier
+msgid "Select where to position the slider. The slider expands to full width when positioned below the menu and is normal size when positioned before the content."
+msgstr ""
+
+#: options.php:394
+#@ frontier
+msgid "Slider Height"
+msgstr ""
+
+#: options.php:401
+#@ frontier
+msgid "Slider Elements"
+msgstr ""
+
+#: options.php:408
+#@ frontier
+msgid "Show Post Title"
+msgstr ""
+
+#: options.php:409
+#@ frontier
+msgid "Show Post Text"
+msgstr ""
+
+#: options.php:413
+#@ frontier
+msgid "Slider Image Style"
+msgstr ""
+
+#: options.php:418
+#@ frontier
+msgid "Stretch Image to fit Slider."
+msgstr ""
+
+#: options.php:419
+#@ frontier
+msgid "Don't Stretch. Center the Image."
+msgstr ""
+
+#: options.php:423
+#@ frontier
+msgid "Default Slider Image"
+msgstr ""
+
+#: options.php:424
+#@ frontier
+msgid "Choose the default image shown on the slider. This image will only be used if a Featured Image is not available on the post."
+msgstr ""
+
+#: options.php:432
+#@ frontier
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:435
+#@ frontier
+msgid "CSS"
+msgstr ""
+
+#: options.php:443
+#@ frontier
+msgid "Misc"
+msgstr ""
+
+#: options.php:446
+#@ frontier
+msgid "Custom &lt;Head&gt; Codes"
+msgstr ""
+
+#: options.php:452
+#@ frontier
+msgid "Disable Responsive Layout"
+msgstr ""
+
+#: options.php:453
+#@ frontier
+msgid "Check if you do not want the layout to resize and adapt to the screen size."
+msgstr ""
+
+#: options.php:459
+#@ frontier
+msgid "Disable Editor Style"
+msgstr ""
+
+#: options.php:460
+#@ frontier
+msgid "Remove any custom styles applied to the post visual editor (e.g. Post Editor Width)"
+msgstr ""
+
+#: options.php:466
+#@ frontier
+msgid "Remove Theme URL"
+msgstr ""
+
+#: options.php:467
+#@ frontier
+msgid "Remove theme credit on bottom bar. Please consider either keeping the link or donating to show support."
+msgstr ""
+
+#: page-sitemap.php:13
+#@ frontier
+msgid "Pages"
+msgstr ""
+
+#: page-sitemap.php:16
+#@ frontier
+msgid "Categories"
+msgstr ""
+
+#: page-sitemap.php:19
+#@ frontier
+msgid "Recent Posts"
+msgstr ""
+

@@ -1,0 +1,148 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Arimo:400,700);
+
+html {background-color: #EEE;}
+
+body.mceContentBody {
+	background-color: #FFF;
+	padding: 10px !important;
+	margin: 10px auto;
+	font-family: Arimo, Sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	box-shadow: 0px 0px 3px #111;
+}
+
+h1 {font-size: 24px;}
+h2 {font-size: 22px;}
+h3 {font-size: 20px;}
+h4 {font-size: 18px;}
+h5 {font-size: 16px;}
+h6 {font-size: 14px;}
+
+h1,h2,h3,h4,h5,h6 {
+	clear: none;
+	margin: 0;
+	font-family: 'Roboto Condensed', Sans-serif;
+	font-weight: inherit;
+	line-height: 1.5;
+}
+
+p { 
+	margin-top: 4px; 
+	margin-bottom: 10px; 
+}
+
+li {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+blockquote {
+	background-color: #EDEDED;
+	border-left: 6px solid #687888;
+	margin: 20px;
+	padding: 10px 14px 2px;
+	font-style: italic;
+}
+
+blockquote cite {
+	display: block;
+	margin-top: 8px;
+	text-align: right;
+	font-style: normal;
+	font-size: small;
+}
+
+.rtl blockquote {
+	border-left: none;
+	border-right: 6px solid #687888;
+}
+
+.rtl blockquote cite {
+	text-align: left;
+}
+
+pre {
+	background-color: #F0F0F0;
+	border: 1px solid #AAA;
+	margin: 8px 0;
+	padding: 8px;
+	overflow: auto;
+	-ms-word-wrap: normal;
+	word-wrap: normal;
+}
+
+pre, code {
+	font-size: 13px;
+	line-height: 1.55;
+}
+
+dl {padding-left: 20px;}
+
+.rtl dl {
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+dl.wp-caption {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+dt {font-weight: bold;}
+
+dd {margin: 0 0 10px;}
+
+table {
+	border-collapse: collapse;
+	width: 98%;
+	margin: 10px auto;
+}
+
+th {
+	background-color: #DDD;
+	font-weight: normal;
+}
+
+th, td {
+	border: 1px solid #AAA !important;
+	padding: 8px 10px;
+	font-family: Arimo, Sans-serif;
+	font-size: 14px;
+}
+
+.mceContentBody .wp-caption, .mceContentBody img {
+	max-width: 100%;
+	height: auto;
+}
+
+.alignnone {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.alignleft {
+	float: left;
+	margin: 4px 8px 4px 0;
+}
+.alignright {
+	float: right;
+	margin: 4px 0 4px 8px;
+}
+.aligncenter {
+	display: block;
+	margin: 4px auto;
+}
+
+.wp-caption-text {
+	margin: 0;
+	padding: 0 5px;
+	color: #555;
+	font-size: 12px;
+	line-height: 1.6;
+}
+
+.wp-caption-dd {text-align: left;}
+
+.rtl .wp-caption-dd {text-align: right;}
+
+.mce-wp-nextpage, .mce-wp-more {height: 12px !important;}

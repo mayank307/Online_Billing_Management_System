@@ -1,0 +1,165 @@
+﻿body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+blockquote {
+	border-left: none;
+	border-right: 6px solid #687888;
+}
+blockquote cite {text-align: left;}
+
+dl, ul, ol {
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+ul ul, ol ol {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+li {
+	margin-left: 0;
+	margin-right: 15px;
+}
+
+#top-bar-info {float: right;}
+
+#site-title, #site-description {
+	margin-left: 4px;
+	margin-right: 0;
+}
+
+#header-logo, #header-logo img {float: right;}
+
+#bottom-bar-text {float: right;}
+
+#theme-link {float: left;}
+
+.col-scs #sidebar-left,
+.page-template-page-scs-php #main #sidebar-left {
+	margin-right: -4px;
+}
+
+.col-scs #sidebar-right,
+.page-template-page-scs-php #main #sidebar-right {
+	margin-left: 0;
+}
+
+#nav-main {
+	padding-left: 0;
+	padding-right: 10px;
+}
+#nav-main .nav-main, #nav-main .nav-main li,
+#nav-main .sub-menu, #nav-main .children,
+#nav-main .sub-menu a, #nav-main .children a {float: right;}
+
+#nav-main .menu-item-has-children > a:after,
+#nav-main .page_item_has_children > a:after {
+	content: none;
+	padding-left: 0;
+}
+
+#nav-main .menu-item-has-children > a:before,
+#nav-main .page_item_has_children > a:before {
+	font-family: "Genericons";
+	content: "\f431";
+	vertical-align: top;
+	padding-right: 4px;
+}
+
+#nav-top {float: left;}
+#nav-top .nav-top, #nav-top .nav-top li {float: right;}
+
+.sticky .entry-title:before {
+	padding-left: 4px;
+	padding-right: 0;
+}
+
+.entry-author,
+.entry-date,
+.entry-categories,
+.entry-comment-info {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+.entry-thumbnail {
+	float: right;
+	padding-left: 8px;
+	padding-right: 0;
+}
+
+.continue-reading {float: left;}
+
+.link-prev {float: right;}
+.link-next {float: left;}
+
+.sitemap-template .entry-content h3 {
+	margin-left: 0;
+	margin-right: 10px;
+}
+.sitemap-template .entry-content ul {margin: 8px 10px 15px 0;}
+
+#comment-header .title {float: right;}
+#comment-header .respond-link {float: left;}
+
+#comments .comment-list {
+	padding-right: 0;
+}
+
+#comments .children {
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+.comment-author,
+.comment-author .avatar,
+.comment-author .fn {
+	float: right;
+}
+
+.comment-author .avatar {
+	margin-left: auto;
+    margin-right: -8px;
+}
+
+.comment-metadata {float: left;}
+
+.comment-awaiting-moderation {
+	clear: left;
+	float: left;
+}
+
+.comment-reply-link {float: left;}
+
+#no-comments  h4 {
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.comment-form-author label,
+.comment-form-email label,
+.comment-form-url label {
+	margin-left: auto;
+	margin-right: 2px;
+}
+
+.widget-header, .widget-footer {float: right;}
+
+.widget-column-2 .widget-footer:nth-child(2n+1),
+.widget-column-3 .widget-footer:nth-child(3n+1),
+.widget-column-4 .widget-footer:nth-child(4n+1),
+.widget-column-5 .widget-footer:nth-child(5n+1),
+.widget-column-6 .widget-footer:nth-child(6n+1) {clear: right;}
+
+.frontier-widget ul ul, .frontier-widget ol ol {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+.widget_search label .search-field {
+	margin: 4px 0 4px 4px;
+}
